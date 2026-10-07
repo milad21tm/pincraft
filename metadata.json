@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest Automation Hub | پینترست کریتور هوشمند",
+  "description": "هوش مصنوعی خودکار برای اسکرپ صفحات محصول، تولید متادیتای سئوشده، کاورهای استاندارد ۹:۱۶ و ویدیو پین‌های جذاب پینترست.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
